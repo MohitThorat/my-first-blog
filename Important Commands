@@ -1,0 +1,7 @@
+inside django
+
+do this command
+
+source myvenv/bin/activate
+
+to activate myvenv
